@@ -12,14 +12,12 @@ O objetivo do projeto é realizar o **cadastro de clientes**, armazenando **nome
 - TypeScript  
 - Axios  
 - Vite *(ou Create React App, conforme seu setup)*  
-- CSS / Tailwind / Styled Components *(ajuste conforme o projeto)*  
 
 ### ⚙️ Back-end
 - Node.js  
 - Express  
 - TypeScript  
 - MongoDB (Mongoose)  
-- Cors / Dotenv  
 
 ---
 
